@@ -1,5 +1,10 @@
 .wrapper {
     display: flex;
-    
+}
 
+.dot {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: #008ae6;
 }
