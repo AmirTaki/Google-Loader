@@ -31,3 +31,6 @@ body {
 .dot:nth-child(2){
     background-color: #e60000;
 }
+.dot:nth-child(3){
+    background-color: #ffcc00;
+}
