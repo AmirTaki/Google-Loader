@@ -27,7 +27,7 @@ body {
 }
 
 .dot:nth-child(1){
-    
+    animation-delay: .25s;   
 }
 
 .dot:nth-child(2){
