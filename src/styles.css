@@ -23,3 +23,11 @@ body {
     border-radius: 50%;
     background: #008ae6;
 }
+
+.dot:nth-child(1){
+    
+}
+
+.dot:nth-child(2){
+    background-color: #e60000;
+}
